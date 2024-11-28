@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MobComp Final Project</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="translate">Translate</string>
+    <string name="extracted_text_hint">Extracted text will appear here</string>
+    <string name="recognized_text_hint">Recognized speech will appear here</string>
+    <string name="translated_text_hint">Translation will appear here</string>
+    <string name="error_no_text">Please extract text from an image first</string>
+    <string name="error_no_image">Please select or capture an image first</string>
+    <string name="error_camera_permission">Camera permission denied</string>
+    <string name="error_storage_permission">Storage permission denied</string>
+    <string name="error_load_image">Failed to load image</string>
+    <string name="error_extract_text">Failed to extract text</string>
+    <string name="error_no_text_found">No text found in the image</string>
+    <string name="translating">Translating...</string>
+    <string name="error_translation">Translation failed</string>
+    <string name="error_no_text_to_translate">No text to translate</string>
+    <string name="error_model_download">Could not download language model</string>
+    <string name="speak_text">Speak text</string>
+    <string name="speak_translated_text">Speak translated text</string>
+</resources>
